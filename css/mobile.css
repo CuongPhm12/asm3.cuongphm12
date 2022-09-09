@@ -1,0 +1,15 @@
+@media (max-width: 768px) {
+  #nav-bar {
+    height: autopx;
+    display: block;
+  }
+  .nav-text {
+    display: none;
+  }
+  #nav-bar a {
+    display: block;
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+}
